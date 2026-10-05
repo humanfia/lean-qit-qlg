@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved to [humanfia/hoa-qed/lean-qit-qlg](https://github.com/humanfia/hoa-qed/tree/main/lean-qit-qlg).**
+> What follows is a read-only snapshot, kept so that existing links keep working.
+> Updates, fixes and issues live in [hoa-qed](https://github.com/humanfia/hoa-qed/tree/main/lean-qit-qlg) only.
+
 # Lean QIT + QAlg formalization datasets
 
 This repository mirrors and combines the Humanfia Lab QAlg (Quantum Algorithms) and QIT (Quantum Information Theory) proof datasets with reproducible Lean 4 build environments. It preserves the dataset tables, original TeX statements, generated Lean formalizations and proofs, review metadata, and proof reports.
